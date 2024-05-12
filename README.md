@@ -1,12 +1,12 @@
 # Robot Rental Website
 
-This is a JavaScript-based website for robot rental.
+This is a JavaScript-based website for dog care.
 
-## Deployment
+### Deployment
 
 Link: https://thuduongnguyen.github.io/doggy-website/
 
-## Technologies Used
+### Technologies Used
 
 - HTML
 - CSS
