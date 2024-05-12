@@ -1,4 +1,4 @@
-# Robot Rental Website
+# Doggy Website
 
 This is a JavaScript-based website for dog care.
 
